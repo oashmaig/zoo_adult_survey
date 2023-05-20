@@ -1,0 +1,47 @@
+#envImg {
+    /* width: 50rem; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#moshi {
+    /* width: 15rem; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    width: 90%;
+}
+
+#slider {
+    width: 2em;
+    display: block;
+    height: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+}
+
+#submitButton {
+    /* width: 15rem; */
+    margin: 3em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+p {
+    display: block;
+    /* margin-top: 1em;
+    margin-bottom: 1em; */
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50% */
+}
+
+#zoneProbPrompt {
+    font-size: 19px;
+}
